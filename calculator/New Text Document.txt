@@ -1,0 +1,13 @@
+
+methord call :
+private void takeinpu{
+ input
+}
+
+suppose :
+sum{
+takeinput()[then it directly go that methord]
+}
+
+
+git: *download
